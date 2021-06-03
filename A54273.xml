@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This following being a copy of a letter I carried to Devonshire-house the 21th instant (there being a meeting of the people called Quakers) I gave it to John Bolton : it being directed to him to be there read ...</title>
+            <author>Pennyman, John, 1628-1706.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54273</idno><idno type="EEBO-CITATION">13286061</idno>
+  <idno type="VID">98806</idno>
+  <idno type="EEBO-PROQUEST">2240876210</idno>
+  
+            <idno type="STC">Wing P1421</idno>
+            <idno type="STC">ESTC R33381</idno>
+            <idno type="OCLC">13286061</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54273)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98806)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1039:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This following being a copy of a letter I carried to Devonshire-house the 21th instant (there being a meeting of the people called Quakers) I gave it to John Bolton : it being directed to him to be there read ...</title>
+                  <author>Pennyman, John, 1628-1706.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed the 28th instant [i.e. August, 1671]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: John Pennyman.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:98806:1"/>
+            <pb facs="tcp:98806:1"/>
+            <p>
+               <hi>This following being a Copy of a Letter I carried to <hi>Devonshire-house the 21th instant,</hi> (there being a Meet<g ref="char:EOLhyphen"/>ing of the People called <hi>Quakers)</hi> I gave it to <hi>John Bolton,</hi> it being directed to him to be there read.</hi>
+            </p>
+            <p>
+               <hi>But neither the said <hi>J. Bolton,</hi> nor any other that I spoke to would so much as move it to the Meeting, (though I waited there several hours) whether they would have it read or no; but said, they knew it was their Friends minds, not to receive any Paper from mee. I told them, that seeing they would neither suffer mee to come into their Meeting, nor suffer what I had writ to them to be read, I did believe I should make that Letter (which now I am to do) much more publick.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>London, <date>the <hi>21th</hi> of the month called <hi>August,</hi> 71.</date>
+                     </dateline>
+                     <salute>JOHN BOLTON, <hi>&amp;c.</hi>
+                     </salute>
+                  </opener>
+                  <p>THE LORD ordered mee to come to <hi>Devonshire-house</hi> this day two weeks, my purpose being to speak about that business the Letter I had writ to <hi>George Fox</hi> related to (which gave an ac<g ref="char:EOLhyphen"/>count of some passages at my last being with you, where I had charged one of your Ministers (viz. <hi>John Rous)</hi> with Theft, <hi>&amp;c.)</hi> But seeing two of your number brought mee word, that their Friends were resolved I should not come in; it is with mee, and that from the LORD, to com<g ref="char:EOLhyphen"/>mit to Writing what I have to lay before you at this time; <hi>Viz.</hi> As I came to the Exchange <hi>(this day)</hi> one lent mee a Book, called <hi>The Quakers Challenge, &amp;c.</hi> put forth by another of your Ministers, viz. <hi>Solomon Eccles,</hi> where I find in the sixth page, in one paragraph, these words, viz. <hi>Stand up Mug<g ref="char:EOLhyphen"/>gleton the Sorcerer, whose mouth is full of Cursing, Lies and Blasphemy; who callst thy last Book a Looking-Glass for</hi> G. FOX, <hi>whose name thou art not worthy to take into thy mouth, who is a Prophet in deed, and hath been faithful in the Lords business from the beginning: It was said of Christ, That he was in the World, and the World was made by him; and the World knew him not: So it may be said of this true Prophet, whom</hi> John <hi>said, he was not; but thou wilt feel this Prophet one day as heavy as a Milstone upon thee; and although the World knows him not, yet he is known.</hi>
+                  </p>
+                  <p>Now seeing that the said Book is printed and published in the name of the <hi>Quakers</hi> by (one of your Ministers) <hi>Solomon Eccles,</hi> whom I did expect should publickly have owned his Condemnation for his blasphemous Title, which hee hath thus publickly given to (a mortal man) <hi>George Fox,</hi> whose breath is in his nostrils: But perceiving that he hath lately taken Ship (with <hi>George)</hi> for the <hi>Barbadoes,</hi> and not publickly owned any such Condemnation, nor that <hi>George</hi> ever did bear a publick Testimony a<g ref="char:EOLhyphen"/>gainst this his Blasphemy, but rather seems to be an encourager of him, by taking him (as one of his Preachers) along with him; I am now to lay it before you (it being put forth in the name of the <hi>Quakers)</hi> to see whether you will publickly disown the said <hi>Solomon</hi> and his Blasphemy; and whether you can own the said <hi>George Fox</hi> to be a faithful Servant to the LORD, who dared (in the least) admit of any such blasphemous Title to be given him by such a Blasphemer.</p>
+                  <closer>Your answer hereunto I expect, who am known to you by the name of
+<signed>John Pennyman.</signed>
+                  </closer>
+                  <postscript>
+                     <head>Postscript.</head>
+                     <p>As I was waiting for their Answer in <hi>William Crowch</hi> his Shop, I looked in a Bible, where I read concerning (my elder Brother, and faithful Servant of the LORD) <hi>PAUL,</hi> who when the People would have done sacrifice to him and <hi>Barnabas,</hi> hee rent his Clothes (like a madman) being zealous for the GLORY of the LORD, crying out and saying, <hi>Sirs, why do you these things? wee also are men of like passions with you, and preach unto you that you should turn from these vanities, to serve the living God.</hi>
+                     </p>
+                     <p>Now if <hi>PAUL</hi> when hee [by the Power of GOD] was made instrumental to heal one who had been impotent from the womb, would not, I say, durst not (in the least) admit of any such Honour, which was onely and alone due to the LORD; then what will become of the abovesaid <hi>George Fox?</hi> who doth not only admit of blasphemous Titles to be given him, but is an encourager of such Blas<g ref="char:EOLhyphen"/>phemers. O let my Soul (and all the Souls of the Righteous) for ever abhor such Blasphemous, Cursed Hellish Practices, either to be given to, or received by any Mortal: Even so, Amen, saith the Servant of the LORD, who hath made mee to be of a willing mind to serve his People.</p>
+                     <closer>Glory be to his Name for ever and ever. <hi>Amen, Amen,</hi> saith <signed>his Servant J. P.</signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+      <back>
+         <div type="printers_note">
+            <p>The Printer was willing to put a Flourish at the top of some of the abovesaid Papers, there being too much white left: (which I was to allow of, foreseeing that several who are very zealous for Mint and Anise, would be more offended at it than at the Blasphemy aforesaid, or at the Injustice the Letter to <hi>G. F.</hi> related to, which said Letter I am now to publish, and may give or shew it to any: Ʋnderstanding that <hi>John Rous</hi> hath printed an Answer to it, though the People called <hi>Quakers</hi> it seems are so asham'd o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, that they will neither give nor shew it me) two of which Papers I so sent to <hi>John Bolton</hi> and <hi>Rebekah Travers,</hi> (with these following Lines) which I am willing here to insert, that so the said vacancy may be filled up with that which may be of more service.</p>
+            <div type="letter">
+               <opener>
+                  <salute>JOHN BOLTON,</salute>
+               </opener>
+               <p>Seeing thou wert not so faithful to the LORD, nor to mee his Servant, as to move the reading of that Letter at your Meeting I gave thee yesterday, it is with mee to send thee this inclosed; the day being come, that what hath been seen in secret, must be published upon the house top: and no longer must your calling of your selves <hi>Elders in God</hi> be owned either by the LORD, or his faithful Servants, who have a living Testimony to bear against all Deceipt and Deceivers: Wherefore I am to warn thee speedily to repent, and turn to Him from whom thou hast deeply revolted. Reject not this my Warning, for it is the Love of GOD to thee, through his Servant <hi>J. P.</hi>
+               </p>
+               <closer>
+                  <dateline>Dated <date>the 22d instant.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>REBEKAH TRAVERS,</salute>
+               </opener>
+               <p>The inclosed I am to send thee; the day being come that your deeds must come to the Light, from which you are not, you cannot be hid: Wherefore happy wouldst thou be if yet thou shouldest turn to the LORD, from whom thou hast deeply apostatized; yea, it is the Word of the LORD, whether thou hear or forbear: Therefore whilst it is called to day, repent; for the hour of his Judgment is come and coming, yet more to be revealed against all proud Boasters and vain Talkers: Wherefore I am to warn thee, to cease from speaking the Imaginations of thy own brain for the WORD of the LORD, who assuredly will not let you go unpunished, ye that have so often told lies in his Name, when he neither spoke in you, nor by you. O where will you hide your selves from the WRATH of the LAMB, which is come and coming yet more to be revealed and made manifest against all Deceipt and all Deceivers; yea, I say, against all who hold the Truth <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Unrighteousness.</p>
+               <closer>Glory and Praise be given to the LAMB, who alone is Worthy, saith <signed>his Servant John Pennyman.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="colophon">
+            <p>Printed the 28th instant.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
